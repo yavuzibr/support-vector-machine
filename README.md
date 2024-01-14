@@ -1,1 +1,2 @@
 # support-vector-machine
+## Purpose
